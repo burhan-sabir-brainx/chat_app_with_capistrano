@@ -66,9 +66,6 @@ group :development do
   gem 'byebug', '~> 11.1', '>= 11.1.3'
 end
 
-# For Deployment
-gem 'kamal', '~> 1.0'
-
 # For Authentication
 gem 'devise', '~> 4.9', '>= 4.9.3'
 gem 'devise_token_auth', '~> 1.2', '>= 1.2.2'
